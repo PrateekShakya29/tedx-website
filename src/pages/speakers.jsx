@@ -56,20 +56,20 @@ function Speaker({ data }) {
   return (
     <Container>
       <Helmet>
-        <title>TEDxNITRourkela | Speakers</title>
-        <meta name='title' content='TEDxNITRourkela | Speakers' />
+        <title>TEDxShivNadarUniversity | Speakers</title>
+        <meta name='title' content='TEDxShivNadarUniversity | Speakers' />
         <link rel='canonical' href='https://tedxnitrourkela.com/speakers' />
         {speakers.map(({ shortDescription, name }, index) => (
           <meta
             key={`speaker-${index}-${name}`}
             name='description'
-            content={`TEDxNITRourkela ${dates} Speaker | ${name} |${shortDescription}`}
+            content={`TEDxShivNadarUniversity ${dates} Speaker | ${name} |${shortDescription}`}
           />
         ))}
       </Helmet>
 
       <div style={{ marginTop: '3.5rem', marginBottom: '5rem' }}>
-        <SpeakerSection title='TEDxNITRourkelaWomen 2022' data={speakers} />
+        <SpeakerSection title='TEDxShivNadarUniversity 2022' data={speakers} />
         <Decoration src={GRAPHICS.TOP_LEFT} alt='ellipse' />
       </div>
     </Container>

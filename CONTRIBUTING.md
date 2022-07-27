@@ -11,7 +11,7 @@
 $ git clone https://github.com/<User-Name>/website.git
 
 # Add upstream remote
-$ git remote add upstream https://github.com/TEDxNITRourkela/website.git
+$ git remote add upstream https://github.com/TEDxShivNadarUniversity/website.git
 
 # Fetch and rebase with upstream/development
 $ git fetch upstream

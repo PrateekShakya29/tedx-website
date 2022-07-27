@@ -98,7 +98,7 @@ function Index() {
     <Wrapper>
       <Section>
         <Content>TECHNOLOGY . ENTERTAINMENT . DESIGN</Content>
-        <Logo src={LOGOS.TEDxNITRourkela.LIGHT} alt='Logo' />
+        <Logo src={LOGOS.TEDxShivNadarUniversity.LIGHT} alt='Logo' />
         <Topic>&#8220;Learning from the Past&#8221;</Topic>
 
         <video

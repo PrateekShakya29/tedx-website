@@ -4,7 +4,7 @@ import { LOGOS } from '../img/logos';
 export default {
   title: 'Navigation',
   logo: {
-    src: LOGOS.TEDxNITRourkela.LIGHT,
+    src: LOGOS.TEDxShivNadarUniversity.LIGHT,
     alt: 'TedxNITRourkela',
   },
   navItems: [
@@ -28,18 +28,7 @@ export default {
       name: 'Events',
       link: '/events',
     },
-    // {
-    //   name: 'Participate',
-    //   link: '/campus_ambassadors',
-    // },
-    {
-      name: 'Merch',
-      link: '/merch',
-    },
-    {
-      name: 'Wall',
-      link: '/wall',
-    },
+
     {
       name: 'Gallery',
       link: '/gallery',

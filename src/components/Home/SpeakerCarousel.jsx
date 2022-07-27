@@ -108,16 +108,16 @@ function SpeakerCarousel() {
         </Heading1>
 
         <ImgContainer>
-          <Img
-            src='https://res.cloudinary.com/tedxnitrourkela/image/upload/v1641279493/assets/logos/Group_631_goyfk3.png'
+          <Img style={{ marginTop: '-50px' }}
+            src='https://res.cloudinary.com/dp6zr3gfn/image/upload/c_scale,h_2500,w_4500/v1658857589/tedxshivnadaruniversity/misfits_white_cfxnri.png'
             alt={home.CONTENT1.thankyouurl.alt}
           />
         </ImgContainer>
 
-        <Heading2 className='dates'>8-9th January | 4 - 8 pm</Heading2>
-        <Link to='/live'>
+        <Heading2 className='dates' style={{ marginTop: '-50px' }}>15-16November | 4 - 8 pm</Heading2>
+        {/* <Link to='/live'>
           <CustomButton>Watch Live</CustomButton>
-        </Link>
+        </Link> */}
       </HeroContainer>
 
       <ButtonContainer>

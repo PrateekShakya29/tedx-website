@@ -38,7 +38,7 @@ function Partner({ data }) {
         <meta
           key={href}
           name='description'
-          content={`TEDxNITRourkela ${dates} | Partner | ${name}`}
+          content={`TEDxShivNadarUniversity ${dates} | Partner | ${name}`}
         />,
       );
     });
@@ -47,8 +47,8 @@ function Partner({ data }) {
   return (
     <Container>
       <Helmet>
-        <title>TEDxNITRourkela | Partners</title>
-        <meta name='title' content='TEDxNITRourkela | Partners' />
+        <title>TEDxShivNadarUniversity | Partners</title>
+        <meta name='title' content='TEDxShivNadarUniversity | Partners' />
         <link rel='canonical' href='https://tedxnitrourkela.com/partners' />
 
         {tags}

@@ -25,10 +25,10 @@ const Decoration = styled.img`
 const tickets = () => (
   <Container>
     <Helmet>
-      <title>TEDxNITRourkela | Tickets</title>
-      <meta name='title' content='TEDxNITRourkela | Tickets' />
-      <link rel='canonical' href='https://tedxnitrourkela.com/tickets' />
-      <meta name='description' content='TEDxNIRourkela 2021 Event Tickets.' />
+      <title>TEDxShivNadarUniversity | Tickets</title>
+      <meta name='title' content='TEDxShivNadarUniversity | Tickets' />
+      <link rel='canonical' href='https://tedxshivnadaruniversity.com/tickets' />
+      <meta name='description' content='TEDxShivNadarUniversity 2022 Event Tickets.' />
     </Helmet>
 
     <Tickets />

@@ -114,7 +114,7 @@ function About({ direction, first, DATA, link, columnReverse = false }) {
         <Link href={DATA.LINK} target='_blank' rel='noreferrer'>
           {DATA.HIGHLIGHT
             ? `Learn More about ${DATA.HIGHLIGHT}`
-            : 'Learn More about TEDxNITRourkela'}
+            : 'Learn More about TEDxShivNadarUniversity'}
         </Link>
       )}
     </Section>

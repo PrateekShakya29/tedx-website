@@ -1,13 +1,13 @@
 import React from 'react';
 
 // Components
-import { SEO, StructuredData, Layout } from '.';
+import { SEO, Layout } from '.';
 
 const App = ({ children }) => {
   return (
     <>
       <SEO />
-      <StructuredData />
+
 
       <Layout>{children}</Layout>
     </>

@@ -4,10 +4,10 @@ import { LOGOS } from '../img/logos';
 const CONTENT1 = {
   caption: 'TECHNOLOGY • ENTERTAINMENT • DESIGN',
   logo: {
-    src: 'https://res.cloudinary.com/sambitsankalp/image/upload/v1636208790/TedxNITR/White_Logo_ldguyq.png',
-    alt: 'TedxNITRourkela',
+    src: 'https://res.cloudinary.com/dp6zr3gfn/image/upload/v1658841214/tedxshivnadaruniversity/TEDx_logo_white_inrkwp.png',
+    alt: 'TedxShivNadarUniversity',
   },
-  heading: '"Learning from the Past"',
+  heading: '"MISFIT"',
   video: {
     src: 'https://res.cloudinary.com/tedxnitrourkela/video/upload/assets/gif/scrollDown_gj8lj3.mp4',
     type: 'video/mp4',
@@ -18,7 +18,7 @@ const CONTENT1 = {
     alt: 'Thank You Speakers',
   },
   brand: {
-    heading: 'Want to be a brand ambassador for TEDxNITRourkela?',
+    heading: 'Want to be a brand ambassador for TEDxShivNadarUniversity?',
     link: {
       text: 'Know More',
       path: '/',
@@ -31,10 +31,10 @@ const CONTENT2 = {
   ONE: {
     TITLE: 'What is',
     CONTENT:
-      "TEDxNITRourkela is an independently organized TED event coordinated and curated by a group of NIT Rourkela students. We present people with the opportunity to suggest innovative and efficient ideas to tackle our society's various issues, thus gathering a diverse range of voices from many disciplines that exist to help humanity grow. From essential, radical, and exciting ideas to electrifying performances from performers who are on top of their respective fields, we aspire to deliver to you an experience you would not want to miss.",
-    LINKTEXT: 'Learn More about TEDxNITRourkela',
-    LINK: 'https://www.ted.com/tedx/events/41324',
-    LOGO: LOGOS.TEDxNITRourkela.LIGHT,
+      "TEDxShivNadarUniversity is an independently organized TED event coordinated and curated by a group of NIT Rourkela students. We present people with the opportunity to suggest innovative and efficient ideas to tackle our society's various issues, thus gathering a diverse range of voices from many disciplines that exist to help humanity grow. From essential, radical, and exciting ideas to electrifying performances from performers who are on top of their respective fields, we aspire to deliver to you an experience you would not want to miss.",
+    LINKTEXT: 'Learn More about TEDxShivNadarUniversity',
+    LINK: 'https://www.ted.com/tedx/events/47584',
+    LOGO: LOGOS.TEDxShivNadarUniversity.LIGHT,
   },
   TWO: {
     TITLE: 'What is',
@@ -47,8 +47,8 @@ const CONTENT2 = {
   THREE: {
     TITLE: 'What is',
     CONTENT:
-      "TEDxNITRourkela is an independently organized TED event coordinated and curated by a group of NIT Rourkela students. We present people with the opportunity to suggest innovative and efficient ideas to tackle our society's various issues, thus gathering a diverse range of voices from many disciplines that exist to help humanity grow. From essential, radical, and exciting ideas to electrifying performances from performers who are on top of their respective fields, we aspire to deliver to you an experience you would not want to miss.",
-    LOGO: LOGOS.TEDxNITRourkela.LIGHT,
+      "TEDxShivNadarUniversity is an independently organized TED event coordinated and curated by a group of NIT Rourkela students. We present people with the opportunity to suggest innovative and efficient ideas to tackle our society's various issues, thus gathering a diverse range of voices from many disciplines that exist to help humanity grow. From essential, radical, and exciting ideas to electrifying performances from performers who are on top of their respective fields, we aspire to deliver to you an experience you would not want to miss.",
+    LOGO: LOGOS.TEDxShivNadarUniversity.LIGHT,
   },
 };
 

@@ -122,7 +122,7 @@ export const PARTNER = Object.freeze({
         href: 'https://mailchimp.com',
         hrefTitle: 'MailChimp',
         size: '20%',
-      },    
+      },
       {
         img: PARTNERS.SHUTTERSTOCK,
         href: 'https://shutterstock.com',
@@ -134,9 +134,9 @@ export const PARTNER = Object.freeze({
   CONTENT: {
     TITLE: 'Why partner with',
     CONTENT:
-      'A partnership with TEDxNITRourkela will bring you a diverse and promising audience, and would also allow you to form an emotional connection with our audience. In addition to this, an invitation to the event will be provided, allowing you to observe and interact with the audience to learn about what connects with them, invaluable information for any organization. Associating with TEDxNITRourkela will also allow your corporation to boost its brand awareness and find innovative ideas. Most importantly, association with a non-profit organisation will expand your social reach and corporate social responsibilities.',
+      'A partnership with TEDxShivNadarUniversity will bring you a diverse and promising audience, and would also allow you to form an emotional connection with our audience. In addition to this, an invitation to the event will be provided, allowing you to observe and interact with the audience to learn about what connects with them, invaluable information for any organization. Associating with TEDxShivNadarUniversity will also allow your corporation to boost its brand awareness and find innovative ideas. Most importantly, association with a non-profit organisation will expand your social reach and corporate social responsibilities.',
     LINKTEXT: 'Partner With Us',
     LINK: 'https://files.tedxnitrourkela.com/Partnership_Brochure.pdf',
-    LOGO: LOGOS.TEDxNITRourkela.LIGHT,
+    LOGO: LOGOS.TEDxShivNadarUniversity.LIGHT,
   },
 });

@@ -8,7 +8,7 @@ import {
   faInstagram,
   faLinkedinIn,
   faQuora,
-  faSpotify,    
+  faSpotify,
   faTwitter,
   faYoutube,
 } from '@fortawesome/free-brands-svg-icons';
@@ -327,17 +327,17 @@ const GUESTS = [
 ];
 
 const SPEAKERS_EVENT_TWO = {
-  ONE: 'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxNITRourkelaLive/speakers/Zach_King_2_stntn1.png',
-  TWO: 'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxNITRourkelaLive/speakers/Adam_Grant_1_oh18t8.png',
+  ONE: 'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxShivNadarUniversityLive/speakers/Zach_King_2_stntn1.png',
+  TWO: 'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxShivNadarUniversityLive/speakers/Adam_Grant_1_oh18t8.png',
   THREE:
-    'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxNITRourkelaLive/speakers/Jamil_Zaki_zewzqc.png',
-  FOUR: 'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxNITRourkelaLive/speakers/Isha_Datar_i2acyl.png',
-  FIVE: 'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxNITRourkelaLive/speakers/Steven_Johnson_2_pks9l9.png',
-  SIX: 'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxNITRourkelaLive/speakers/Pardis_Parker_1_ssigeg.png',
+    'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxShivNadarUniversityLive/speakers/Jamil_Zaki_zewzqc.png',
+  FOUR: 'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxShivNadarUniversityLive/speakers/Isha_Datar_i2acyl.png',
+  FIVE: 'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxShivNadarUniversityLive/speakers/Steven_Johnson_2_pks9l9.png',
+  SIX: 'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxShivNadarUniversityLive/speakers/Pardis_Parker_1_ssigeg.png',
   SEVEN:
-    'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxNITRourkelaLive/speakers/FRAME_gd1npb.png',
+    'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxShivNadarUniversityLive/speakers/FRAME_gd1npb.png',
   EIGHT:
-    'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxNITRourkelaLive/speakers/Group_16_otphec.png',
+    'https://res.cloudinary.com/tedxnitrourkela/image/upload/2021-22/TEDxShivNadarUniversityLive/speakers/Group_16_otphec.png',
 };
 
 const LIVEGUESTS = [

@@ -28,7 +28,7 @@ const ButtonContainer = styled.div`
 
 const TicketComponent = ({ imageURL, setLoading, handleClick, loading }) => (
   <TicketContainer>
-    <Ticket src={imageURL} alt='TEDxNITRourkela 2021 Ticket' />
+    <Ticket src={imageURL} alt='TEDxShivNadarUniversity 2021 Ticket' />
     <ButtonContainer>
       <CustomButton loading={loading} setLoading={setLoading} handleClick={handleClick}>
         Buy Now

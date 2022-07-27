@@ -12,7 +12,7 @@ import { about, home } from '../../config/content';
 function About() {
   return (
     <Container>
-      <SEO title='TEDxNITRourkela | About' />
+      <SEO title='TEDxShivNadarUniversity | About' />
 
       <div style={{ marginTop: '3.5rem' }} />
       <InfoSection direction='right-left' first DATA={about.SECTION.ONE} columnReverse />

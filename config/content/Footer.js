@@ -12,17 +12,17 @@ import { facebook, twitter, instagram, youtube, linkedin } from '../website';
 export default {
   title: 'Footer',
   logo: {
-    src: LOGOS.TEDxNITRourkela.LIGHT,
-    alt: 'TedxNITRourkela',
+    src: LOGOS.TEDxShivNadarUniversity.LIGHT,
+    alt: 'TedxShivNadarUniversity',
   },
   subHeading: 'This independent TEDx event is operated under licence from TED',
   contact: {
     heading: 'Contact Us:',
-    body: 'info@tedxnitrourkela.com',
+    body: 'info@tedxshivnadaruniversity.com',
     privacy: 'Privacy Policy',
     terms: 'Terms of Services',
   },
-  copyright: '© 2021 TEDxNITRourkela. All rights reserved.',
+  copyright: '© 2022 TEDxShivNadarUniversity. All rights reserved.',
   socials: [
     {
       icon: faFacebookF,

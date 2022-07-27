@@ -144,7 +144,7 @@ function ContentBanner({ DATA, smallLogo = false, wrapContainer = false }) {
       <Column smallLogo={smallLogo}>
         <Question>{DATA.TITLE}</Question>
         <ImgWrapper>
-          <Img src={DATA.LOGO} alt='TEDxNITRourkela Logo' />
+          <Img src={DATA.LOGO} alt='TEDxShivNadarUniversity Logo' />
         </ImgWrapper>
       </Column>
 

@@ -1,6 +1,6 @@
-# TEDxNITRourkela Website
+# TEDxShivNadarUniversity Website
 
-The WebApp for [TEDxNITRourkela](https://www.ted.com/tedx/events/41324)
+The WebApp for [TEDxShivNadarUniversity](https://www.ted.com/tedx/events/41324)
 
 Hosted at [tedxnitrourkela.com](https://tedxnitrourkela.com)
 
@@ -17,7 +17,7 @@ Hosted at [tedxnitrourkela.com](https://tedxnitrourkela.com)
 ### Procedure
 
 ```bash
-$ git clone https://github.com/TEDxNITRourkela/website-v2.git
+$ git clone https://github.com/TEDxShivNadarUniversity/website-v2.git
 $ cd website
 $ yarn install
 ```

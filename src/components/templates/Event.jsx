@@ -80,8 +80,8 @@ function Events({ data }) {
   return (
     <div>
       <Helmet>
-        <title>{`TEDxNITRourkela | ${name}`}</title>
-        <meta name='title' content={`TEDxNITRourkela | ${name}`} />
+        <title>{`TEDxShivNadarUniversity | ${name}`}</title>
+        <meta name='title' content={`TEDxShivNadarUniversity | ${name}`} />
         <link rel='canonical' href={`https://tedxnitrourkela.com${slug}`} />
       </Helmet>
 

@@ -1,12 +1,12 @@
 export const LOGOS = Object.freeze({
-    TEDxNITRourkela: {
-      DARK:
-        'https://res.cloudinary.com/tedxnitrourkela/image/upload/assets/logos/logo_dark_oipjvc.png',
-      LIGHT:
-        'https://res.cloudinary.com/tedxnitrourkela/image/upload/assets/logos/logo_rdylvs.png',
-    },
-    TEDx: {
-      DEFAULT:
-        'https://res.cloudinary.com/tedxnitrourkela/image/upload/assets/logos/tedx_rtvcni.png',
-    },
-  });
+  TEDxShivNadarUniversity: {
+    DARK:
+      'https://res.cloudinary.com/dp6zr3gfn/image/upload/v1658840795/tedxshivnadaruniversity/download_hv58j2.png',
+    LIGHT:
+      'https://res.cloudinary.com/dp6zr3gfn/image/upload/v1658841214/tedxshivnadaruniversity/TEDx_logo_white_inrkwp.png',
+  },
+  TEDx: {
+    DEFAULT:
+      'https://res.cloudinary.com/dp6zr3gfn/image/upload/v1658841214/tedxshivnadaruniversity/TEDx_logo_white_inrkwp.png',
+  },
+});

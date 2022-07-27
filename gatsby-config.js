@@ -13,7 +13,7 @@ module.exports = {
     title: config.siteTitle,
     twitterHandle: config.twitterHandle,
     description: config.siteDescription,
-    keywords: ['TEDxNITRourkela'],
+    keywords: ['TEDxShivNadarUniversity'],
     canonicalUrl: config.siteUrl,
     image: config.siteLogo,
     author: {
