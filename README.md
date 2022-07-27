@@ -1,10 +1,4 @@
-# TEDxNITRourkela Website
 
-The WebApp for [TEDxNITRourkela](https://www.ted.com/tedx/events/41324)
-
-Hosted at [tedxnitrourkela.com](https://tedxnitrourkela.com)
-
-- Developed on React.js and Gatsby.js
 
 ## Installation
 
