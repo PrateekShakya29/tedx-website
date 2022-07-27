@@ -11,7 +11,6 @@
 ### Procedure
 
 ```bash
-$ git clone https://github.com/TEDxNITRourkela/website-v2.git
 $ cd website
 $ yarn install
 ```
